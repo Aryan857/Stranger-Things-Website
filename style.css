@@ -1,0 +1,24 @@
+.links{
+    display: inline;
+    padding-left:33px;
+    padding-right:25px;
+    font-family: fantasy;
+    font-size: 20px;
+    }
+.menu{
+    position: fixed;
+    background:white ;
+    top: 0px;
+    margin-top: 0px;
+    width: 100%;
+    z-index: 10;
+    }
+body{
+    background: linear-gradient(50%red 50%black);
+    text-align: center;
+    text-emphasis-color: white;
+    font-size: 25px;
+}
+#Main_Img{
+    width: 100%;
+}
